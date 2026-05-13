@@ -1,0 +1,22 @@
+{
+  "name": "web-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auto-test-01/Web-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Auto-test-01/Web-test/issues"
+  },
+  "homepage": "https://github.com/Auto-test-01/Web-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
